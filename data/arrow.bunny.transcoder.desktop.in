@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=transcoder
+Exec=transcoder
+Icon=arrow.bunny.transcoder
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

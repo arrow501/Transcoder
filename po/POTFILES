@@ -1,0 +1,6 @@
+data/arrow.bunny.transcoder.desktop.in
+data/arrow.bunny.transcoder.metainfo.xml.in
+data/arrow.bunny.transcoder.gschema.xml
+src/main.vala
+src/window.vala
+src/window.ui
